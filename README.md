@@ -4,7 +4,7 @@
 
 * People or teams can chat with others.
 * Every one should register then login to could chatting under a specific username.
-* Any user already logged in can access chat page and have a full control to manage style of chatting such as color of text and background color.
+* Any user already logged in can access chat page and have control to manage style of chatting such as color and size of font.
 
 
       
