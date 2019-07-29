@@ -1,8 +1,14 @@
 # chat-with-me
 
-People or teams can chat with others , Every one should register then login to could chatting under a specific username.
-Any one logged in already can access chat page and have a full control to manage style of chatting such as color of text and background color.
+### A Chatting Web Application
 
+* People or teams can chat with others.
+* Every one should register then login to could chatting under a specific username.
+* Any user already logged in can access chat page and have a full control to manage style of chatting such as color of text and background color.
+
+
+      
+                                    Screen shoots from project
 ![chat-with-me](https://user-images.githubusercontent.com/53432494/62053971-f4f27380-b218-11e9-8c46-73dcd3a78e7c.png)
 
 
