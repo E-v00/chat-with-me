@@ -17,3 +17,5 @@
 ![login](https://user-images.githubusercontent.com/53432494/62068373-2af22080-b236-11e9-922c-c65005b96915.png)
 
 ![chat](https://user-images.githubusercontent.com/53432494/62068385-304f6b00-b236-11e9-89e6-6d7cf36fdd8f.png)
+
+![control](https://user-images.githubusercontent.com/53432494/62069332-5413b080-b238-11e9-9087-3818a87cf821.png)
